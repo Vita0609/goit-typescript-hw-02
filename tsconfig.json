@@ -8,7 +8,7 @@
 
 {
   "compilerOptions": {
-    "target": "ESNext",
+    "target": "es5",
     "useDefineForClassFields": true,
     "lib": ["es2015", "dom"],
     "allowJs": true,
@@ -17,7 +17,7 @@
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "module": "ESNext",
+    "module": "commonjs",
     "moduleResolution": "Node",
     "resolveJsonModule": true,
     "isolatedModules": true,
